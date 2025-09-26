@@ -1,6 +1,6 @@
 {
   "name": "create-discrafter-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffolding tool to quickly set up a new Discrafter bot project",
   "main": "lib/index.js",
   "type": "module",
